@@ -3,6 +3,8 @@ package cli
 import (
 	"flag"
 	"fmt"
+
+	"github.com/RianAsmara/go-cred-scanner/pkg/scanner"
 )
 
 func Execute() {

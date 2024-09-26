@@ -1,0 +1,2 @@
+FilePath,Line,Pattern
+testdata/credential.py,"PASSWORD = ""password123""","(?i)password\s*=\s*['""]?([^'""]{8,})['""]?"

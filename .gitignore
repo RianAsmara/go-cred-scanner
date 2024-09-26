@@ -1,0 +1,4 @@
+# .gitignore
+/testdata/
+.result.csv
+.result.json
